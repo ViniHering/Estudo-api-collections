@@ -32,7 +32,6 @@ fun main() {
     salariosMaiorQue2500.forEach{
         println(it) }
 
-    println("testando")
     println("------------------------------------------------------")
 
     // Quantos elementos tenho dentro do Array que estão entre 2k e 5k
